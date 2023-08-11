@@ -1,0 +1,7 @@
+.box-div:hover .grid-img{
+    background-color: #4b94ed;
+}
+
+.box-div:hover .grid-zizag-img{
+    opacity: 1;
+}
