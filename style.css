@@ -5,3 +5,7 @@
 .box-div:hover .grid-zizag-img{
     opacity: 1;
 }
+
+.backImg{
+    background-image: url(images/feature-section-2BG.svg);
+}
