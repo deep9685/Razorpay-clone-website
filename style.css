@@ -9,3 +9,12 @@
 .backImg{
     background-image: url(images/feature-section-2BG.svg);
 }
+
+.new-f-cardImg{
+    background-image: url(images/instant-settlement-bg.svg);
+    /* box-shadow: 1px 1px 3px 1px rgb(219, 214, 214); */
+}
+
+.new-f-cardImg:hover{
+    background-image: url(images/instant-settlement-bghover.svg);
+}
