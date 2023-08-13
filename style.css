@@ -18,3 +18,10 @@
 .new-f-cardImg:hover{
     background-image: url(images/instant-settlement-bghover.svg);
 }
+
+.core-f-section{
+    background-image: url(images/core-features-sectionBg.svg);
+    background-size: 100% 100%;
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+}
