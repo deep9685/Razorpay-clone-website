@@ -25,3 +25,16 @@
     padding-top: 12rem;
     padding-bottom: 12rem;
 }
+
+.CompanyList{
+    animation: moveCompany 30s infinite linear;
+}
+
+@keyframes moveCompany {
+    0%{
+        top: 0;
+    }
+    100%{
+        top: -160%;
+    }
+}
