@@ -38,3 +38,8 @@
         top: -160%;
     }
 }
+
+.CTAsection{
+    background-image: url(images/CTABg.svg);
+    background-size: 100% 100%;
+}
